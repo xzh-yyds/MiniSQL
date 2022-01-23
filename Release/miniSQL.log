@@ -1,0 +1,48 @@
+﻿  API.cpp
+D:\不用的学习资料\数据库系统\miniSQL\miniSQL\miniSQL\API.cpp(227,29): warning C4018: “<”: 有符号/无符号不匹配
+D:\不用的学习资料\数据库系统\miniSQL\miniSQL\miniSQL\API.cpp(284,29): warning C4018: “<”: 有符号/无符号不匹配
+D:\不用的学习资料\数据库系统\miniSQL\miniSQL\miniSQL\API.cpp(410,21): warning C4018: “<”: 有符号/无符号不匹配
+  BufferManager.cpp
+  Catalog.cpp
+D:\不用的学习资料\数据库系统\miniSQL\miniSQL\miniSQL\Catalog.cpp(56,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\不用的学习资料\数据库系统\miniSQL\miniSQL\miniSQL\Catalog.cpp(114,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\不用的学习资料\数据库系统\miniSQL\miniSQL\miniSQL\Catalog.cpp(140,71): warning C4018: “<=”: 有符号/无符号不匹配
+D:\不用的学习资料\数据库系统\miniSQL\miniSQL\miniSQL\Catalog.cpp(214,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\不用的学习资料\数据库系统\miniSQL\miniSQL\miniSQL\Catalog.cpp(269,18): warning C4018: “<”: 有符号/无符号不匹配
+D:\不用的学习资料\数据库系统\miniSQL\miniSQL\miniSQL\Catalog.cpp(380,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\不用的学习资料\数据库系统\miniSQL\miniSQL\miniSQL\Catalog.cpp(623,22): warning C4018: “<”: 有符号/无符号不匹配
+  condition.cpp
+  IndexManager.cpp
+D:\不用的学习资料\数据库系统\miniSQL\miniSQL\miniSQL\BPlusTree.h(98,35): warning C4018: “<”: 有符号/无符号不匹配
+D:\不用的学习资料\数据库系统\miniSQL\miniSQL\miniSQL\BPlusTree.h(85): message : 在编译 类 模板 成员函数“void BPlusTree<int>::ReadTree(void)”时
+D:\不用的学习资料\数据库系统\miniSQL\miniSQL\miniSQL\BPlusTree.h(63): message : 查看对正在编译的函数 模板 实例化“void BPlusTree<int>::ReadTree(void)”的引用
+D:\不用的学习资料\数据库系统\miniSQL\miniSQL\miniSQL\BPlusTree.h(59): message : 在编译 类 模板 成员函数“BPlusTree<int>::BPlusTree(std::string,int,int)”时
+D:\不用的学习资料\数据库系统\miniSQL\miniSQL\miniSQL\IndexManager.cpp(76): message : 查看对正在编译的函数 模板 实例化“BPlusTree<int>::BPlusTree(std::string,int,int)”的引用
+D:\不用的学习资料\数据库系统\miniSQL\miniSQL\miniSQL\IndexManager.cpp(16): message : 查看对正在编译的 类 模板 实例化“BPlusTree<int>”的引用
+  interpreter.cpp
+D:\不用的学习资料\数据库系统\miniSQL\miniSQL\miniSQL\interpreter.cpp(28,42): warning C4018: “<”: 有符号/无符号不匹配
+D:\不用的学习资料\数据库系统\miniSQL\miniSQL\miniSQL\interpreter.cpp(45,42): warning C4018: “<”: 有符号/无符号不匹配
+D:\不用的学习资料\数据库系统\miniSQL\miniSQL\miniSQL\interpreter.cpp(205,26): warning C4018: “<”: 有符号/无符号不匹配
+  main.cpp
+  RecordManager.cpp
+D:\不用的学习资料\数据库系统\miniSQL\miniSQL\miniSQL\RecordManager.cpp(44,18): warning C4018: “<=”: 有符号/无符号不匹配
+D:\不用的学习资料\数据库系统\miniSQL\miniSQL\miniSQL\RecordManager.cpp(100,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\不用的学习资料\数据库系统\miniSQL\miniSQL\miniSQL\RecordManager.cpp(106,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\不用的学习资料\数据库系统\miniSQL\miniSQL\miniSQL\RecordManager.cpp(113,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\不用的学习资料\数据库系统\miniSQL\miniSQL\miniSQL\RecordManager.cpp(126,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\不用的学习资料\数据库系统\miniSQL\miniSQL\miniSQL\RecordManager.cpp(254,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\不用的学习资料\数据库系统\miniSQL\miniSQL\miniSQL\RecordManager.cpp(311,17): warning C4018: “<”: 有符号/无符号不匹配
+D:\不用的学习资料\数据库系统\miniSQL\miniSQL\miniSQL\RecordManager.cpp(337,15): warning C4018: “<”: 有符号/无符号不匹配
+D:\不用的学习资料\数据库系统\miniSQL\miniSQL\miniSQL\RecordManager.cpp(343,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\不用的学习资料\数据库系统\miniSQL\miniSQL\miniSQL\RecordManager.cpp(379,15): warning C4018: “<”: 有符号/无符号不匹配
+D:\不用的学习资料\数据库系统\miniSQL\miniSQL\miniSQL\RecordManager.cpp(386,16): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+D:\不用的学习资料\数据库系统\miniSQL\miniSQL\miniSQL\BPlusTree.h(429): warning C4715: “BPlusTree<int>::AfterDelete”: 不是所有的控件路径都返回值
+D:\不用的学习资料\数据库系统\miniSQL\miniSQL\miniSQL\BPlusTree.h(429): warning C4715: “BPlusTree<float>::AfterDelete”: 不是所有的控件路径都返回值
+D:\不用的学习资料\数据库系统\miniSQL\miniSQL\miniSQL\BPlusTree.h(429): warning C4715: “BPlusTree<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::AfterDelete”: 不是所有的控件路径都返回值
+D:\不用的学习资料\数据库系统\miniSQL\miniSQL\miniSQL\interpreter.cpp(618): warning C4715: “Interpreter::mainInterpreter”: 不是所有的控件路径都返回值
+  1271 of 1291 functions (98.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  miniSQL.vcxproj -> D:\不用的学习资料\数据库系统\miniSQL\miniSQL\Release\miniSQL.exe
